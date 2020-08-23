@@ -1,0 +1,10 @@
+C:\Users\khris\source\repos\cliente_consultaorden\bin\Debug\cliente_consultaorden.exe.config
+C:\Users\khris\source\repos\cliente_consultaorden\bin\Debug\cliente_consultaorden.exe
+C:\Users\khris\source\repos\cliente_consultaorden\bin\Debug\cliente_consultaorden.pdb
+C:\Users\khris\source\repos\cliente_consultaorden\obj\Debug\cliente_consultaorden.csprojAssemblyReference.cache
+C:\Users\khris\source\repos\cliente_consultaorden\obj\Debug\cliente_consultaorden.Form1.resources
+C:\Users\khris\source\repos\cliente_consultaorden\obj\Debug\cliente_consultaorden.Properties.Resources.resources
+C:\Users\khris\source\repos\cliente_consultaorden\obj\Debug\cliente_consultaorden.csproj.GenerateResource.cache
+C:\Users\khris\source\repos\cliente_consultaorden\obj\Debug\cliente_consultaorden.csproj.CoreCompileInputs.cache
+C:\Users\khris\source\repos\cliente_consultaorden\obj\Debug\cliente_consultaorden.exe
+C:\Users\khris\source\repos\cliente_consultaorden\obj\Debug\cliente_consultaorden.pdb
