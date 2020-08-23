@@ -1,0 +1,10 @@
+C:\Users\khris\source\repos\cliente_soap_prueba\bin\Debug\cliente_soap_prueba.exe.config
+C:\Users\khris\source\repos\cliente_soap_prueba\bin\Debug\cliente_soap_prueba.exe
+C:\Users\khris\source\repos\cliente_soap_prueba\bin\Debug\cliente_soap_prueba.pdb
+C:\Users\khris\source\repos\cliente_soap_prueba\obj\Debug\cliente_soap_prueba.csprojAssemblyReference.cache
+C:\Users\khris\source\repos\cliente_soap_prueba\obj\Debug\cliente_soap_prueba.Form1.resources
+C:\Users\khris\source\repos\cliente_soap_prueba\obj\Debug\cliente_soap_prueba.Properties.Resources.resources
+C:\Users\khris\source\repos\cliente_soap_prueba\obj\Debug\cliente_soap_prueba.csproj.GenerateResource.cache
+C:\Users\khris\source\repos\cliente_soap_prueba\obj\Debug\cliente_soap_prueba.csproj.CoreCompileInputs.cache
+C:\Users\khris\source\repos\cliente_soap_prueba\obj\Debug\cliente_soap_prueba.exe
+C:\Users\khris\source\repos\cliente_soap_prueba\obj\Debug\cliente_soap_prueba.pdb
